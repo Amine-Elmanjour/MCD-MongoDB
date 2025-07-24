@@ -19,8 +19,8 @@ Mini application de gestion de produits réalisée en PHP, avec une architecture
 
 git clone <lien-du-repo>
 cd ProjetMVCMangoDB
+
 composer require mongodb/mongodb
-test
 
 cd public
 php -S localhost:8000
