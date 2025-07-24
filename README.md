@@ -23,6 +23,7 @@ cd ProjetMVCMangoDB
 composer require mongodb/mongodb
 
 cd public
+
 php -S localhost:8000
 
 
