@@ -13,27 +13,6 @@ Mini application de gestion de produits réalisée en PHP, avec une architecture
 
 ---
 
-## 📁 Arborescence du projet
-
-ProjetMVCMangoDB/
-│
-├── app/
-│ ├── controllers/ → Contrôleurs PHP
-│ ├── models/ → Modèles MongoDB
-│ ├── views/ → Vues HTML avec Tailwind
-│ └── lib/ → Connexion MongoDB (mongo.php)
-│
-├── public/
-│ └── index.php → Point d’entrée (router)
-│
-├── vendor/ → Dépendances Composer (non suivies par Git)
-├── composer.json
-├── composer.lock
-└── README.md
-
-
----
-
 ## ⚙️ Installation
 
 ### 1. Cloner le projet
